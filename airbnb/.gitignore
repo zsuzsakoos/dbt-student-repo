@@ -5,3 +5,4 @@ logs/
 
 # Ignore sensitive credentials
 profiles.yml
+.user.yml
